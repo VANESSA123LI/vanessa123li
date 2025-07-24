@@ -1,6 +1,6 @@
 ## Hi there 👋
--
-This is where I work
+
+Most of my repos are private
 
 
 
