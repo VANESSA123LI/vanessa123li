@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am currently tinkering with consumer healthcare and fintech apps
+-
 
 
 
