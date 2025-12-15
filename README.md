@@ -1,9 +1,5 @@
 ## Hi there 👋 
 
-Home: bosondevelopers.com 
-
-
-New Product: https://www.alexis-ai.com/
 
 
 
